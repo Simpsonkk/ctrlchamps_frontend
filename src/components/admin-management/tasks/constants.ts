@@ -1,0 +1,4 @@
+const MIN_TASK_LENGTH = 5;
+const MAX_TASK_LENGTH = 100;
+
+export { MIN_TASK_LENGTH, MAX_TASK_LENGTH };
